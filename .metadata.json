@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "discfrail",
+    "oncran": true
+  }
+]
